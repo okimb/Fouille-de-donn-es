@@ -1,2 +1,3 @@
 # Fouille-de-donn-es
-MÉTHODE D’APPRENTISSAGE SUPERVISÉ : PERFORMANCE DES ÉTUDIANTS
+Méthode d'apprentissage supervisé: cas de performance des étudiants.
+Pour mener cette étude j'ai utilisé Tanagra. 
